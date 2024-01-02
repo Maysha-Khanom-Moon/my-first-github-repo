@@ -5,6 +5,7 @@
 
 2. git init
 - init: initialization
+- just at first time
 <br>
 
 3. git add README.md
