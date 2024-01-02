@@ -49,4 +49,4 @@ git remote add origin https://github.com/Maysha-Khanom-Moon/my-first-github-repo
 - then i get a live site link
 
 # live server update
-- 1-5 min time lagbe
+- highest 5 min time lagbe
