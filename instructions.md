@@ -42,3 +42,11 @@ git remote add origin https://github.com/Maysha-Khanom-Moon/my-first-github-repo
 1. git add .
 2. git commit -m "comment"
 3. git push
+
+
+# get live website
+- settings + pages + branch select(main) + save
+- then i get a live site link
+
+# live server update
+- 1-5 min time lagbe
