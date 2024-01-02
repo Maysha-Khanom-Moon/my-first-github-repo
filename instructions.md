@@ -50,3 +50,7 @@
 
 # live server update
 - highest 5 min time lagbe
+
+
+# extra-command
+- git status: all changes show korbe

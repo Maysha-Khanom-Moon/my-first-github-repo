@@ -14,3 +14,9 @@
     - so, index.html er bolode ja likhechi, oi name live server er url a oi nam add kore dibo
 
 5. live server a img src te case exactly boshate hobe
+
+* live sever link means website deploy
+
+## vs-code
+
+1. cmd er selected repo te giye 'code .' press korlei vs-code open hoye jay
