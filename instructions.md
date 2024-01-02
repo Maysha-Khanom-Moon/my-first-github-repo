@@ -1,13 +1,15 @@
 # create a new repo on the command line
 1. echo "# my-first-github-repo" >> README.md
 - aita niye pore kaj korbo
+<br>
 
 2. git init
 - init: initialization
+<br>
 
 3. git add README.md
 - 'git add .' ==> it add all the file(change)
-
+<br>
 
 4. git commit -m "first commit"
 - if it show 'fatal' error then do that what you get the instruction
@@ -21,12 +23,13 @@
 - ai jayga theke ber hoyar jonno w or q
 
 - up arrow key press korle previous command gula peye jabo
-
+<br>
 
 5. git branch -M main
 - at main branch
 
 git remote add origin https://github.com/Maysha-Khanom-Moon/my-first-github-repo.git
 - aita ekta repo er jonno ek bar korlei hobe
+<br>
 
 6. git push -u origin main
