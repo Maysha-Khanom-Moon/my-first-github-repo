@@ -15,6 +15,8 @@
 
 5. live server a img src te case exactly boshate hobe
 
+6. ektu ektu kaj korei git push korbo
+
 * live sever link means website deploy
 
 ## vs-code
