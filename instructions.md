@@ -34,3 +34,11 @@ git remote add origin https://github.com/Maysha-Khanom-Moon/my-first-github-repo
 <br>
 
 6. git push -u origin main
+
+
+
+# after 1st time
+- 3 ta kaj kora lagbe
+1. git add .
+2. git commit -m "comment"
+3. git push
