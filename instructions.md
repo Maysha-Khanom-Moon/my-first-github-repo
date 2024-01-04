@@ -50,6 +50,8 @@
 
 ## live server update
 - highest 5 min time lagbe
+- ai khetre amra hard reload dite pari webpage a. Taile cache clear hoye notun kore reload hobe.
+    - ctrl + shift + r
 
 
 ## extra-command
