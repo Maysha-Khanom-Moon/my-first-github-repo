@@ -13,6 +13,11 @@ steps:
     --> file er jonno '\' jawa lage nah
 
 
+## another way
+- file a jeye targeted folder open korbo
+- then path a jeye path all select korbo
+- existing path delete kore path a cmd likhe enter press korbo
+
 ## vs-code
 1. ctrl + j ---> open/ close terminal
   - then choose cmd terminal
